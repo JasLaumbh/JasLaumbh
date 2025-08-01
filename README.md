@@ -3,15 +3,11 @@
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
-- 🔭 I’m currently working on a **Stock Tracker**
-
-- 🌱 I’m currently learning **Threejs and Generative AI**
-
-- 💬 Ask me about **react, native and vite**
+- 💬 Ask me about **react, native and myself!**
 
 - 📫 How to reach me **jasmeetlaumbh@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UcWNh_o5y2qoc8AQGiEkzQ72X0dNooqH/view?usp=drive_link](https://drive.google.com/file/d/1UcWNh_o5y2qoc8AQGiEkzQ72X0dNooqH/view?usp=drive_link)
+- 📄 Know about my experiences ([RESUME](https://drive.google.com/file/d/1_cyBKwQ4JMyPvztqvy_BaPxt6NGzjKDd/view?usp=sharing))
 
 - ⚡ Fun fact **The first computer "bug" was an actual moth! In 1947, computer scientists found a moth causing issues in the Harvard Mark II computer. Ever since, glitches and errors have been called "bugs"! 🐛**
 
