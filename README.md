@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jasmeetlaumbh@gmail.com**
 
-- 📄 Know about my experiences ([RESUME](https://drive.google.com/file/d/1_cyBKwQ4JMyPvztqvy_BaPxt6NGzjKDd/view?usp=sharing))
+- 📄 Know about my experiences ([RESUME](https://drive.google.com/file/d/1AGEGDfd5YVueIwMVFek53Q-9N0oiqc_6/view?usp=sharing))
 
 - ⚡ Fun fact **The first computer "bug" was an actual moth! In 1947, computer scientists found a moth causing issues in the Harvard Mark II computer. Ever since, glitches and errors have been called "bugs"! 🐛**
 
